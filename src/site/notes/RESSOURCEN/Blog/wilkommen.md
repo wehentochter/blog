@@ -3,4 +3,4 @@
 ---
 
 test
-/pu
+/publ
